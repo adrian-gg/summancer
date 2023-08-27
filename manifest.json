@@ -28,7 +28,7 @@
   "background_color": "#181818",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "./",
+  "scope": "https://adrian-gg.github.io/summancer/",
   "theme_color": "#181818",
   "description": "A randomized card game"
 }
